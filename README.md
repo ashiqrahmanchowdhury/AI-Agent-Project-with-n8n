@@ -1,5 +1,5 @@
 # 🤖 AI Agent Project with n8n
-### Ashiq Rahman Chowdhury | Module 21 Assignment
+### Ashiq Rahman Chowdhury |
 
 A full-stack AI workflow system where a Streamlit frontend and FastAPI backend connect to **n8n**. The system takes an article URL and user email, scrapes the article using AI, generates summaries and key insights, logs data to Google Sheets, and emails the results directly to the user.
 
@@ -49,7 +49,7 @@ User (Streamlit) → FastAPI Backend → n8n Webhook
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/article-analyzer-n8n.git
+git https://github.com/ashiqrahmanchowdhury/AI-Agent-Project-with-n8n
 cd article-analyzer-n8n
 ```
 
